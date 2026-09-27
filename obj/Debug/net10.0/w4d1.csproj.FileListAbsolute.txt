@@ -1,0 +1,14 @@
+/Users/rahimova/w4d1/bin/Debug/net10.0/w4d1
+/Users/rahimova/w4d1/bin/Debug/net10.0/w4d1.deps.json
+/Users/rahimova/w4d1/bin/Debug/net10.0/w4d1.runtimeconfig.json
+/Users/rahimova/w4d1/bin/Debug/net10.0/w4d1.dll
+/Users/rahimova/w4d1/bin/Debug/net10.0/w4d1.pdb
+/Users/rahimova/w4d1/obj/Debug/net10.0/w4d1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahimova/w4d1/obj/Debug/net10.0/w4d1.AssemblyInfoInputs.cache
+/Users/rahimova/w4d1/obj/Debug/net10.0/w4d1.AssemblyInfo.cs
+/Users/rahimova/w4d1/obj/Debug/net10.0/w4d1.csproj.CoreCompileInputs.cache
+/Users/rahimova/w4d1/obj/Debug/net10.0/w4d1.dll
+/Users/rahimova/w4d1/obj/Debug/net10.0/refint/w4d1.dll
+/Users/rahimova/w4d1/obj/Debug/net10.0/w4d1.pdb
+/Users/rahimova/w4d1/obj/Debug/net10.0/w4d1.genruntimeconfig.cache
+/Users/rahimova/w4d1/obj/Debug/net10.0/ref/w4d1.dll
